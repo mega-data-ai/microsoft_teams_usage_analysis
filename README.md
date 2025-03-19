@@ -89,5 +89,3 @@ The dataset contains anonymized Microsoft Teams usage data, capturing:
 [Meghana B](https://www.linkedin.com/in/bgem/)
 
 ---
-
-Ready to dive into the data and unlock the potential of Microsoft Teams usage insights? Let’s get started! 🚀  
