@@ -1,7 +1,7 @@
 
 # 📊 Microsoft Teams Usage Analysis 🚀  
 
-![Teams Banner](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg)  
+![Teams Banner]()  
 
 ## 🌟 **Project Overview**  
 In today’s digital workplace, tools like Microsoft Teams are at the heart of communication and collaboration. Understanding how Teams is used across departments can help improve productivity, optimize resources, and ensure better engagement.  
