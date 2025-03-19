@@ -1,7 +1,8 @@
 
 # 📊 Microsoft Teams Usage Analysis 🚀  
 
-![Teams](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/Microsoft_Teams_Usage_Analysis.jpg=500x)  
+<img src="./Microsoft_Teams_Usage_Analysis.jpg" alt="Microsoft Teams Usage Analysis" width="500"/>
+
 
 ## 🌟 **Project Overview**  
 In today’s digital workplace, tools like Microsoft Teams are at the heart of communication and collaboration. Understanding how Teams is used across departments can help improve productivity, optimize resources, and ensure better engagement.  
