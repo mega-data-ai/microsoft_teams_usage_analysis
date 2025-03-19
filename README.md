@@ -1,7 +1,7 @@
 
 # 📊 Microsoft Teams Usage Analysis 🚀  
 
-![Teams Banner]()  
+![Teams](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/Microsoft_Teams_Usage_Analysis.jpg)  
 
 ## 🌟 **Project Overview**  
 In today’s digital workplace, tools like Microsoft Teams are at the heart of communication and collaboration. Understanding how Teams is used across departments can help improve productivity, optimize resources, and ensure better engagement.  
@@ -19,7 +19,7 @@ By analyzing Teams usage, we aim to:
 ---
 
 ## 📁 **Dataset Overview**  
-The dataset contains anonymized Microsoft Teams usage data, capturing:  
+The dataset contains a simulated Microsoft Teams usage data, capturing:  
 - 📝 **Messages Sent**: Total messages sent by each user.  
 - 📞 **Calls Made**: Number of calls made.  
 - 📅 **Meetings Attended**: Number of meetings attended.  
@@ -42,22 +42,28 @@ The dataset contains anonymized Microsoft Teams usage data, capturing:
 ## 📊 **Key Visualizations**  
 
 1. **Messages Sent Over Time**  
-   - Tracks message activity across different dates to identify peak engagement periods.  
+   - Tracks message activity across different dates to identify peak engagement periods.
+      ![Messages Sent Over Time](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/messages_sent_over_time.png)
 
 2. **Messages Sent per Department**  
-   - Compares messaging activity across departments, revealing which teams communicate the most.  
+   - Compares messaging activity across departments, revealing which teams communicate the most.
+      ![Messages Sent per Department](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/messages_sent_per_dept.png)
 
 3. **Meetings vs. Messages Sent**  
-   - Uncovers the relationship between meeting attendance and message activity, providing insights into communication habits.  
+   - Uncovers the relationship between meeting attendance and message activity, providing insights into communication habits.
+      ![Meetings vs. Messages Sent](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/meetings_vs_messages_sent.png)
 
 4. **Distribution of Total Time Spent**  
-   - Analyzes the distribution of time spent in Teams to identify outliers and engagement levels.  
+   - Analyzes the distribution of time spent in Teams to identify outliers and engagement levels.
+      ![Distribution of Total Time Spent](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/distribution_of_messages_sent.png)
 
 5. **Active Days per Role**  
-   - Compares the number of active days across roles, revealing engagement trends.  
+   - Compares the number of active days across roles, revealing engagement trends.
+     ![Active Days Per Role](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/active_days_per_role.png)
 
 6. **Correlation Matrix**  
-   - Analyzes relationships between key metrics to uncover hidden patterns.  
+   - Analyzes relationships between key metrics to uncover hidden patterns.
+      ![Correlation Matrix](https://github.com/mega-data-ai/microsoft_teams_usage_analysis/blob/main/correlation_matrix.png)
 
 ---
 
