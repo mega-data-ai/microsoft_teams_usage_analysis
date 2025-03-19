@@ -86,6 +86,7 @@ The dataset contains anonymized Microsoft Teams usage data, capturing:
 ---
 
 ## 📬 **Let’s Connect!**  
+[Meghana B](https://www.linkedin.com/in/bgem/)
 
 ---
 
